@@ -18,8 +18,10 @@ public class Main {
         tipPercentage += 1;
         double totalWithTip = subTotal * tipPercentage;
         double perPersonTotal = totalWithTip / numberPeople;
-        totalWithTip = Math.round(totalWithTip * 100.0) / 100.0;
+        totalWithTip = Math.round(totalWithTip * 100.0) / 100.0; // rounding the numbers to 2 decimal places (I learned this way of rounding from stackoverflow)
         perPersonTotal = Math.round(perPersonTotal * 100.0) / 100.0;
-
+        System.out.println();
+        System.out.println("Your total bill is: " + totalWithTip);
+        System.out.print("Each person should pay: " + perPersonTotal);
     }
 }
