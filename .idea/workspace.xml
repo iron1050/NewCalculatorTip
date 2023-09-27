@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ff562f-2277-4c8f-8854-dd2906cab096" name="Changes" comment="adding more parts">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="68ff562f-2277-4c8f-8854-dd2906cab096" name="Changes" comment="finishing - the end of the code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +71,22 @@
       <option name="project" value="LOCAL" />
       <updated>1695828063201</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finishing - the end of the code">
+      <option name="closed" value="true" />
+      <created>1695828596982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695828596982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="adding more parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding more parts" />
+    <MESSAGE value="finishing - the end of the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing - the end of the code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
